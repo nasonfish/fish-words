@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=FishWords
+GenericName=Passwords
+Comment=App for password management and encryption with GPG
+Categories=Utility
+Exec=fish-words
+Icon=application-default-icon
+Terminal=false
+Type=Application
+X-GNOME-Gettext-Domain=fish-words
+X-GNOME-Keywords=Passwords;Management;
